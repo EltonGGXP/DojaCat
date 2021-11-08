@@ -1,0 +1,134 @@
+*{
+    margin:0;
+    padding:0;                      
+    box-sizing: border-box;
+    
+  }
+  
+  .divlimenu{
+    padding:20px;
+    background-color:#0000CD;
+    text-align:center;
+  }
+  
+  .liheader{
+    display:inline;
+    }
+  
+  .btnheader{
+  width:300px;
+    height:60px;
+    padding:10px;
+  border-style:solid;
+  border-radius:15px;
+  background-color:DeepSkyBlue4;
+    font-size:30px;
+  color:black;
+    border-color:black;
+    line-height:center;
+  }
+    
+  body {
+  
+   background-color: #cccccc;
+   text-align:center;
+  }
+  
+  footer{
+   background-color: #cccccc;
+   text-align:center;
+  }
+  
+  h1{
+    font-size:70px;
+    color:white;
+  }
+  
+  .quem{
+    font-size:70px;
+    color:white;
+    margin-top:70px;
+  }
+  
+  .doja1{
+    width:300px;
+    height:300px;
+    border-radius:50%;
+    text-align: center;
+  }
+  
+  .doja2{
+    width:300px;
+    height:300px;
+    border-radius:50%;
+    text-align: center;
+    margin-left:15px;
+  }
+  
+  .doja3{
+    width:300px;
+    height:300px;
+    border-radius:50%;
+    text-align: center;
+    margin-left:15px;
+  }  
+  
+  .p1{
+    margin-top:20px;
+    font-size:20px;
+  }
+  
+  .p2{
+    margin-top:20px;
+    font-size:20px;
+  }
+  
+  .p3{
+    margin-top:20px;
+    font-size:20px;
+  }
+  
+  p4{
+  margin-top:80px;
+    font-size:20px;
+  }
+  
+  .images{
+  margin-top:40px;
+  }
+  
+  .curiinfo{
+    margin-top:40px;
+    font-size:20px;
+  }
+  
+  .linfo{
+    margin-top:10px;
+  }
+  
+  h3{
+  font-size:70px;
+    color:white;
+    margin-top:50px;
+  }
+  
+  .planet{
+    width:300px;
+    height:300px;
+    margin-top:50px;
+    margin-left:center;
+  }
+  
+  ul{
+  list-style:decimal; 
+  }
+  
+  .divfooter{
+    height:50px;
+    padding:15px; 
+    background-color:#0000CD;
+    text-align:center;
+    font-size:30px;
+    color:white;
+  }
+  
